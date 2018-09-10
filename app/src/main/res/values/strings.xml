@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Essentials - নিত্যপ্রয়োজনীয়</string>
+    <string name="beauty_title_list">রূপচর্চা ও অন্যান্য</string>
+    <string name="health_title_list">সুস্বাস্থ রক্ষার্থে করনীয়</string>
+    <string name="cook_title_list">রান্না-বান্না রেসিপি</string>
+    <string name="meet_title_list">আচার-আচরণ</string>
+
+    <string name="beauty_subtitle_list">শারীরিক সৌন্দর্য বৃদ্ধি করার উপায়সমূহ</string>
+    <string name="health_subtitle_list">সুস্থ থাকতে করনীয় ও বর্জনীয়</string>
+    <string name="cook_subtitle_lise">মজাদার রান্না করার রেসিপিসনূহ</string>
+    <string name="meet_subtitle_list">সমাজে করনীয় ও বারণ যে সকল কাজ</string>
+
+    <string name="beauty_title_one">মুখের উজ্জ্বলতা ও সৌন্দর্য বৃদ্ধিতে কলার খোসা</string>
+    <string name="title_text_here">Title text here</string>
+    <string name="desctiption_text_here">Desctiption text here</string>
+    <string name="title_text_will_be_here">Title text will be here</string>
+    <string name="title_desctiption_will_be_here">Title desctiption will be here</string>
+
+
+</resources>
